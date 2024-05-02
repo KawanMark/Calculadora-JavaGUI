@@ -1,2 +1,2 @@
 # Calculadora-JavaGUI
-Este repositório contém o código-fonte do meu projeto de Calculadora em Java, desenvolvido como parte do meu curso de Orientação a Objetos na faculdade. A calculadora foi construída usando a Interface Gráfica do Usuário (GUI) em Java, proporcionando uma experiência de usuário interativa e amigável.
+This repository contains the source code of my Java Calculator project, developed as part of my Object Orientation course at college. The calculator was built using Java’s Graphical User Interface (GUI), providing an interactive and user-friendly experience.
